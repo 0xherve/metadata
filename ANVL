@@ -1,0 +1,12 @@
+{
+    "name": "Anvil of Solana",
+    "symbol": "ANVL",
+    "description": "A token for the core Builders of solana",
+    "image": "https://watashi.fun/watashi.svg",
+    "attributes": [
+      {
+        "trait_type": "Dedicated",
+        "value" : "Solana Builders"
+      }
+    ]
+  }
